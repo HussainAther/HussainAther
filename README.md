@@ -101,7 +101,7 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 
 ### 🎮 **EdTech, GameDev & Interactive Systems**
 
-* K–12 STEAM game development & XR educational environments
+* K-12 STEAM game development & XR educational environments
 * Adaptive learning algorithms, student behavior analytics
 * HCI systems for learning + neurodivergence
 * AI-powered content pipelines for curriculum delivery
