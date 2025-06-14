@@ -24,64 +24,88 @@ I operate at the convergence of:
 
 ---
 
-
 ## 💡 Tech Stack
 
-### **🔣 Programming Languages**
+### 🔣 **Programming Languages**
 
-* Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB, Perl, Swift, Bash, HTML/CSS, SQL, LaTeX, XML
+Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB, Swift, Perl, Bash, SQL, HTML/CSS, LaTeX, XML
 
-### **🧠 AI/ML & Data Science**
+---
 
-* Deep Learning (PyTorch, TensorFlow)
-* Classical ML (scikit-learn, XGBoost, LightGBM)
-* Reinforcement Learning, NLP (spaCy, HuggingFace), LLMs, embeddings
-* Simulation & Scientific Computing (SciPy, Numba, NEURON, Blue Brain)
-* Data Visualization (Seaborn, Matplotlib, Plotly, Tableau, D3.js)
+### 🧠 **AI/ML & Data Science**
 
-### **📊 Data & Database**
+* Deep Learning: PyTorch, TensorFlow
+* Classical ML: scikit-learn, XGBoost, LightGBM
+* NLP & LLMs: spaCy, HuggingFace, embeddings
+* Reinforcement Learning, time-series modeling, GANs
+* Visualization: Seaborn, Matplotlib, Plotly, Tableau, D3.js
+* Scientific Computing: SciPy, Numba, NEURON, Blue Brain, NetPyNE
 
-* PostgreSQL, MySQL, SQLite, MongoDB, pgAdmin
-* Apache Spark, Hadoop
-* Data pipelines (Airflow, Pandas, NumPy)
+---
 
-### **🧱 Web & API Development**
+### 📊 **Data & Database Systems**
 
-* FastAPI, Flask, REST, GraphQL, WebSockets
-* React, Node.js, Express, Next.js
-* Frontend frameworks: AngularJS, Bootstrap, Tailwind
+* Relational: PostgreSQL, MySQL, SQLite
+* NoSQL: MongoDB
+* Tools: pgAdmin, Apache Spark, Hadoop, Airflow
+* Core Libraries: Pandas, NumPy
 
-### **🧬 Scientific Computing & Bioinformatics**
+---
 
-* RNA-Seq, gene expression analysis, spike train modeling, connectome analysis
-* Genome assembly, de Bruijn graphs, PacBio Iso-Seq
-* Stochastic differential equations, Monte Carlo simulations
-* Modeling (linear dynamical systems, spectral theory, Markov models)
+### 🧱 **Web & API Development**
 
-### **🧠 Neuroscience / Imaging / XR**
+* Backend: FastAPI, Flask, REST, GraphQL, WebSockets
+* Frontend: React, AngularJS, Next.js, Bootstrap, Tailwind
+* Full-stack integrations & LLM-enabled APIs
 
-* CT, fMRI, qEEG, spike train statistics, membrane channel models
-* Simulation tools: TOPAS, NEURON, Unity Physics, Unreal Engine
-* XR/AR/VR development: Unity, Unreal, Maya, Blender, Meta Spark AR Studio, VisionOS, Figma
-* Imaging algorithms: MART, Wu anti-aliasing, ray tracing, inpainting, denoising
+---
 
-### **🧰 DevOps & Cloud**
+## 🧬 **Scientific Computing & Bioinformatics**
 
-* AWS (Certified Associate + Practitioner), Google Cloud Platform, Kubernetes, Docker
-* CI/CD pipelines, GitHub Actions, version control, GitLab
+* **Genomic & Molecular Biology**:
+  RNA-Seq, scRNA-Seq, ChIP-Seq, ATAC-Seq, PacBio Iso-Seq, Oxford Nanopore, CRISPR, gene ontology/pathway enrichment, de Bruijn graphs
 
-### **📚 EdTech, GameDev, & Interactive Systems**
+* **Neuroinformatics**:
+  Spike train modeling, connectome analysis, synaptic dynamics, fMRI/EEG/MEG multimodal analysis
 
-* Mixed reality simulation environments for education
-* XR-based educational game design for K–12
-* Adaptive learning algorithms for student engagement
-* Cognitive feedback interfaces for neurodevelopmental research
+* **Modeling & Simulations**:
+  Linear/nonlinear dynamical systems, SDEs, bifurcation theory, spectral methods, HMMs, Bayesian nets, agent-based modeling
 
-### **🧭 Software Architecture & Leadership**
+* **Simulation Tools**:
+  TOPAS, Geant4, SimPy, NEURON, NEST, Blue Brain tools, Biopython, Bioconductor, VEP, Galaxy
 
-* Agile, Scrum, cross-functional team leadership
-* Project planning for patentable R\&D (Alter Learning, Janus Sphere)
-* Open-source leadership (900+ repos)
+---
+
+## 🧠 **Neuroscience / Imaging / XR**
+
+* **Imaging & Signal Processing**:
+  CT, fMRI, qEEG, PET, MEG, DTI, NIRS, spike train stats, ICA/PCA, ERP modeling
+
+* **Image Reconstruction & Analysis**:
+  MART, Wu anti-aliasing, ray-by-ray CT, sparse-angle CT, inpainting, denoising, UNet/ResNet segmentation, 3D printable modeling
+
+* **XR/AR/VR Systems**:
+  Engines: Unity, Unreal, WebXR, Babylon.js
+  Tools: Blender, Maya, ZBrush, Figma, Meta Spark Studio, VisionOS SDK
+  Applications: medical XR, education simulation, biofeedback interfaces, neuroadaptive design
+
+---
+
+### 🧰 **DevOps & Cloud Infrastructure**
+
+* Platforms: AWS (Certified Associate + Practitioner), GCP
+* Containers & Orchestration: Docker, Kubernetes
+* CI/CD: GitHub Actions, GitLab CI, automated testing & deployment
+
+---
+
+### 🎮 **EdTech, GameDev & Interactive Systems**
+
+* K–12 STEAM game development & XR educational environments
+* Adaptive learning algorithms, student behavior analytics
+* HCI systems for learning + neurodivergence
+* AI-powered content pipelines for curriculum delivery
+
 ---
 
 ### 🧬 Selected Repos  
