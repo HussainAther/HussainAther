@@ -6,7 +6,7 @@
 I'm a systems-oriented engineer and scientific thinker building advanced technologies across medical imaging, AI, education, and scientific collaboration. I specialize in developing **ray-based computed tomography (RBYRCT)**, leading AI teams, and architecting full-stack tools that power both deep science and accessible learning.
 
 I operate at the convergence of:
-- 🧠 **Neurodivergent insight**: Diagnosed with autism, I’ve reframed cognition as architecture — driving focus, clarity, and complexity.  
+- 🧠 **Neurodivergent insight**: Diagnosed with autism, I’ve reframed cognition as architecture - driving focus, clarity, and complexity.  
 - 🔍 **Deep tech R&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.  
 - 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
 
