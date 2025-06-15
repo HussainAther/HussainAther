@@ -86,10 +86,27 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 * **Image Reconstruction & Analysis**:
   MART, Wu anti-aliasing, ray-by-ray CT, sparse-angle CT, inpainting, denoising, UNet/ResNet segmentation, 3D printable modeling
 
-* **XR/AR/VR Systems**:
-  Engines: Unity, Unreal, WebXR, Babylon.js
-  Tools: Blender, Maya, ZBrush, Figma, Meta Spark Studio, VisionOS SDK
-  Applications: medical XR, education simulation, biofeedback interfaces, neuroadaptive design
+### 🧿 **3D Graphics & Visualization**
+
+* **Frameworks & Libraries**:
+  Three.js, WebGL, Babylon.js, Unity WebGL, A-Frame
+* **Tools**: Blender, Maya, ZBrush, Substance Painter, Figma
+* **Applications**:
+  Interactive 3D simulations for neuroscience, XR-based learning environments, molecular visualization, ray-traced imaging, and immersive data storytelling
+
+---
+
+### 🕶 **XR (AR/VR/Spatial Computing)**
+
+* **Engines**: Unity, Unreal Engine, WebXR
+* **Tooling**: Meta Spark Studio, VisionOS SDK, Reality Composer, Tilt Brush, VRTK, Blender, Maya, ZBrush, Figma, Meta Spark Studio, VisionOS SDK
+* **Design & Prototyping**: Figma, Adobe Aero, Gravity Sketch
+* **Applications**:
+
+  * Medical XR systems (diagnostic overlays, imaging interaction)
+  * Neuroadaptive XR for education and cognitive feedback
+  * AR/VR environments for K–12 learning, science simulation, and behavioral research
+  * Experimental spatial interfaces for data storytelling and embodied interaction
 
 ---
 
