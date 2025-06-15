@@ -1,26 +1,29 @@
-# 🧠 Syed Hussain Ather  
-**AI Engineer • Imaging Innovator • Founder, Janus Sphere Innovations**  
----
+# 🧠 Syed Hussain Ather
 
-## 🔬 About Me  
+## **AI Engineer • Imaging Innovator • Founder, Janus Sphere Innovations**
+
+## 🔬 About Me
+
 I'm a systems-oriented engineer and scientific thinker building advanced technologies across medical imaging, AI, education, and scientific collaboration. I specialize in developing **ray-based computed tomography (RBYRCT)**, leading AI teams, and architecting full-stack tools that power both deep science and accessible learning.
 
 I operate at the convergence of:
-- 🧠 **Neurodivergent insight**: Diagnosed with autism, I’ve reframed cognition as architecture - driving focus, clarity, and complexity.  
-- 🔍 **Deep tech R&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.  
-- 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
+
+* 🧠 **Neurodivergent insight**: Diagnosed with autism, I’ve reframed cognition as architecture - driving focus, clarity, and complexity.
+* 🔍 **Deep tech R\&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.
+* 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R\&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
 
 ---
 
 ## 🚀 What I’m Working On
 
-| 🧩 Project | Description |
-|-----------|-------------|
-| [**RBYRCT**](https://aakscience.com) | Ray-by-ray computed tomography using steerable beams + Janus spheres. Published in JAIR (2024). Patent portfolio in development. |
-| **Janus Sphere Innovations** | Startup pioneering programmable imaging for medicine, space science, art restoration, and quantum physics. |
-| [**Alter Learning**](https://alter-learning.com) | As AI Team Lead, I lead the design and deployment of LLM-integrated platforms for STEAM education, building tools in Python, FastAPI, Streamlit, and XR environments to deliver scalable, gamified learning solutions. |
-| [**AAK TeleScience**](https://aakscience.com) | Building a global AI-powered collaboration platform for scientists and investors: recommendation engines, vector databases, behavioral analytics, and researcher-in-residence tracking systems. |
-| [**Scientific Open Source**](https://github.com/HussainAther) | 900+ repos across physics, biology, neuroscience, and machine learning — public contributions to tools that support frontier research. |
+| 🧬 Project                                                    | Description                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**RBYRCT**](https://aakscience.com)                          | Ray-by-ray computed tomography using steerable beams + Janus spheres. Published in JAIR (2024). Patent portfolio in development.                                                                                                            |
+| **Janus Sphere Innovations**                                  | Startup pioneering programmable imaging for medicine, space science, art restoration, and quantum physics.                                                                                                                                  |
+| [**Alter Learning**](https://alter-learning.com)              | As AI Team Lead, I lead the design and deployment of LLM-integrated platforms for STEAM education, building tools in Python, FastAPI, Streamlit, and XR environments to deliver scalable, gamified learning solutions.                      |
+| [**AAK TeleScience**](https://aakscience.com)                 | Building a global AI-powered collaboration platform for scientists and investors: recommendation engines, vector databases, behavioral analytics, and researcher-in-residence tracking systems.                                             |
+| [**Scientific Open Source**](https://github.com/HussainAther) | 900+ repos across physics, biology, neuroscience, and machine learning — public contributions to tools that support frontier research.                                                                                                      |
+| **Multi-Domain Research Projects**                            | Building and leading GitHub-driven simulations on topics including early-Earth climate, peptide membrane dynamics, bioelectricity-driven differentiation, diatom optics, quantum imaging, archaea morphology, exoplanet transits, and more. |
 
 ---
 
@@ -60,7 +63,7 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 
 ---
 
-## 🧬 **Scientific Computing & Bioinformatics**
+## 🧪 **Scientific Computing & Bioinformatics**
 
 * **Genomic & Molecular Biology**:
   RNA-Seq, scRNA-Seq, ChIP-Seq, ATAC-Seq, PacBio Iso-Seq, Oxford Nanopore, CRISPR, gene ontology/pathway enrichment, de Bruijn graphs
@@ -91,7 +94,7 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 
 ---
 
-### 🧰 **DevOps & Cloud Infrastructure**
+### 🧠 **DevOps & Cloud Infrastructure**
 
 * Platforms: AWS (Certified Associate + Practitioner), GCP
 * Containers & Orchestration: Docker, Kubernetes
