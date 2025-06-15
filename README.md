@@ -22,7 +22,6 @@ I operate at the convergence of:
 | **Janus Sphere Innovations**                                  | Startup pioneering programmable imaging for medicine, space science, art restoration, and quantum physics.                                                                                                                                  |
 | [**Alter Learning**](https://alter-learning.com)              | As AI Team Lead, I lead the design and deployment of LLM-integrated platforms for STEAM education, building tools in Python, FastAPI, Streamlit, and XR environments to deliver scalable, gamified learning solutions.                      |
 | [**AAK TeleScience**](https://aakscience.com)                 | Building a global AI-powered collaboration platform for scientists and investors: recommendation engines, vector databases, behavioral analytics, and researcher-in-residence tracking systems.                                             |
-| [**Scientific Open Source**](https://github.com/HussainAther) | 900+ repos across physics, biology, neuroscience, and machine learning — public contributions to tools that support frontier research.                                                                                                      |
 | **Multi-Domain Research Projects**                            | Building and leading GitHub-driven simulations on topics including early-Earth climate, peptide membrane dynamics, bioelectricity-driven differentiation, diatom optics, quantum imaging, archaea morphology, exoplanet transits, and more. |
 
 ---
