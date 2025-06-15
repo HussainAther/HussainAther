@@ -36,12 +36,42 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 
 ### 🧠 **AI/ML & Data Science**
 
-* Deep Learning: PyTorch, TensorFlow
-* Classical ML: scikit-learn, XGBoost, LightGBM
-* NLP & LLMs: spaCy, HuggingFace, embeddings
-* Reinforcement Learning, time-series modeling, GANs
-* Visualization: Seaborn, Matplotlib, Plotly, Tableau, D3.js
-* Scientific Computing: SciPy, Numba, NEURON, Blue Brain, NetPyNE
+* **Deep Learning**:
+  PyTorch, TensorFlow, Keras, PyTorch Lightning
+  *Applications*: medical imaging (RBYRCT), segmentation (UNet, ResNet), generative models (GANs), CT denoising
+
+* **Classical Machine Learning**:
+  scikit-learn, XGBoost, LightGBM, CatBoost
+  *Domains*: biological signal classification, scientific pattern recognition, evolutionary trait modeling
+
+* **NLP & LLMs**:
+  HuggingFace Transformers, spaCy, LangChain, OpenAI API, sentence-transformers
+  *Use Cases*: scientific document summarization, LLM-integrated education platforms (Alter Learning), knowledge graph generation
+
+* **Reinforcement Learning**:
+  Stable Baselines3, custom environments via OpenAI Gym
+  *Applications*: biofeedback systems, adaptive learning, multi-agent coordination (swarm robotics)
+
+* **Probabilistic Modeling & Time-Series**:
+  PyMC, Prophet, statsmodels
+  *Applications*: neuronal spike trains, connectomics, bioelectric signal modeling, climate modeling (early-Earth)
+
+* **Generative Models & Simulations**:
+  GANs, VAE, DDPMs
+  *Use Cases*: image super-resolution, partial-view inpainting, synthetic datasets for low-data biology tasks
+
+* **Visualization & Interactive Analytics**:
+  Seaborn, Matplotlib, Plotly, Bokeh, Altair, Tableau, D3.js
+  *Used in*: simulations, lineage trees, differentiator waves, interactive dashboards
+
+* **Scientific Computing & Numerical Methods**:
+  SciPy, NumPy, Numba, NEURON, Blue Brain, NetPyNE, SimPy, SymPy
+  *Specialties*: Monte Carlo simulations (TOPAS, Geant4), agent-based modeling, dynamical systems, stochastic differential equations
+
+* **Model Lifecycle Tools**:
+  MLflow, Weights & Biases (W\&B), DVC
+  *Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
+
 
 ---
 
