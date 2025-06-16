@@ -109,12 +109,6 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 
 ### 📊 **Data & Database Systems**
 
-Absolutely — based on everything you've shown and discussed, here's a refined and **expanded** version of your **Data & Database Systems** section that better reflects the depth and diversity of your experience:
-
----
-
-### 📊 **Data & Database Systems**
-
 **Relational Databases**:
 PostgreSQL, MySQL, SQLite, MS SQL Server
 (Use cases: OLAP/OLTP applications, transactional systems, academic datasets)
