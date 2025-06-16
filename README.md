@@ -72,6 +72,39 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
   MLflow, Weights & Biases (W\&B), DVC
   *Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
 
+## 📜 Certifications & Scientific Credentials
+
+### 🧠 AI/ML, Imaging, and Scientific Computing
+- **SPIE Society for Optics and Photonics**
+  - Photon Counting for Low-Light Imaging
+  - Neural Biopsypsy: Sony Biovision Systems & Neural Interfaces
+- **AWS Certified Machine Learning – Specialty**
+  - Advanced ML workflows in cloud environments (model training, tuning, deployment)
+- **Amazon Web Services (AWS) Cloud Certifications**
+  - Solutions Architect – Associate
+  - Developer – Professional
+  - Advanced Networking – Specialty
+  - SysOps Administrator – Associate
+  - Cloud Practitioner
+
+### 🎮 XR / Game Development
+- **Unity Technologies**
+  - Unity Certified 3D Developer (University of Toronto School of Continuing Studies)
+  - C# Scripting Fundamentals in Unity
+
+### 🧪 Research Ethics & Clinical Protocols
+- **Tri-Council Policy Statement (TCPS2 – Canada)**
+  - Human Research Ethics, Observational & Clinical Neuroscience, Genetic Research Modules
+- **Blue Morpho Workshop (SPIE)**
+  - *Neuroethics: Brain, Drugs, Downloaded Thinking & Artificial Consciousness in Anthropology & Neuroscience*
+
+### 📚 Additional Coursework & Tools
+- Software Engineering, Deep Statistics, Bayesian Networks, Hierarchical Neural Dynamics
+- Certified in Python, R, SQL, LaTeX, Bash, Git, and more
+
+> These credentials reflect a multidisciplinary foundation — bridging AI, cloud infrastructure, neuroscience, optics, and ethics — to support innovation at the frontier of science and technology.
+
+
 ---
 
 ### 📊 **Data & Database Systems**
