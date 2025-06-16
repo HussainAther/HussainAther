@@ -72,23 +72,79 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
   MLflow, Weights & Biases (W\&B), DVC
   *Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
 
+---
+
+### 📊 **Data & Database Systems**
+
+Absolutely — based on everything you've shown and discussed, here's a refined and **expanded** version of your **Data & Database Systems** section that better reflects the depth and diversity of your experience:
 
 ---
 
 ### 📊 **Data & Database Systems**
 
-* Relational: PostgreSQL, MySQL, SQLite
-* NoSQL: MongoDB
-* Tools: pgAdmin, Apache Spark, Hadoop, Airflow
-* Core Libraries: Pandas, NumPy
+**Relational Databases**:
+PostgreSQL, MySQL, SQLite, MS SQL Server
+(Use cases: OLAP/OLTP applications, transactional systems, academic datasets)
+
+**NoSQL Databases**:
+MongoDB, Redis, Neo4j
+(Use cases: document stores for ML pipelines, real-time graph traversal for behavioral analytics)
+
+**Time-Series & Scientific Storage**:
+InfluxDB, NetCDF, HDF5
+(Use cases: climate modeling, physiological signal data like EEG, HRV, etc.)
+
+**Big Data & Distributed Systems**:
+Apache Spark, Hadoop, Dask
+(Use cases: parallel simulations, genomics, image batch processing)
+
+**Data Workflow & Orchestration**:
+Airflow, Luigi, Prefect
+(Use cases: multi-step data prep + model training pipelines for ML/AI products)
+
+**Core Libraries & Frameworks**:
+Pandas, NumPy, Vaex, DVC
+(Use cases: rapid data wrangling, simulation logging, reproducible scientific modeling)
+
+**Visualization & Dashboarding**:
+Metabase, Superset, Streamlit, Dash
+(Use cases: internal analytics tools, user-facing data dashboards, grant reporting interfaces)
 
 ---
 
 ### 🧱 **Web & API Development**
 
-* Backend: FastAPI, Flask, REST, GraphQL, WebSockets
-* Frontend: React, AngularJS, Next.js, Bootstrap, Tailwind
-* Full-stack integrations & LLM-enabled APIs
+**🔧 Backend Development**
+
+* Frameworks: **FastAPI**, **Flask**, **Django**, **Node.js (Express)**
+* API Architectures: **REST**, **GraphQL**, **WebSockets**, **gRPC**
+* Design Principles: asynchronous I/O, dependency injection, API versioning, JWT/OAuth2 authentication
+* Use Cases: internal data services, ML model serving, microservice orchestration, scientific toolchains
+
+**🖼️ Frontend Development**
+
+* Libraries/Frameworks: **React**, **Next.js**, **AngularJS**, **Vue**, **Svelte**
+* Styling & UI: **Tailwind CSS**, **Bootstrap**, **Chakra UI**, **Material UI**
+* Use Cases: educational dashboards, real-time collaborative platforms, simulation controls, telemetry monitors
+
+**🌐 Full-Stack Development & Dev Patterns**
+
+* Integrated server-client deployments using **Monorepos**, **TurboRepo**, **NX**, **Vite**
+* SSR/ISR via **Next.js**, state management via **Redux**, **Zustand**, **Recoil**
+* WebSockets for real-time updates (used in biofeedback, educational games, and XR UIs)
+* JAMStack architectures (e.g., **Netlify**, **Vercel**, **Firebase**) for lightweight frontends + serverless APIs
+
+**🤖 LLM & AI API Integration**
+
+* Built **LLM-enabled tools** for STEAM education (GPT-4, Claude, Gemini via API)
+* Prompt chaining + memory modules with **LangChain**, **Haystack**, **RAG pipelines**
+* Custom fine-tuned model endpoints integrated with web UIs for real-time inference
+
+**🔌 API Consumption & DevOps Tooling**
+
+* API testing: **Postman**, **Insomnia**
+* Documentation: **Swagger**, **OpenAPI**, **Redoc**
+* CI/CD for API updates: GitHub Actions, GitLab CI/CD
 
 ---
 
