@@ -102,7 +102,7 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 - Software Engineering, Deep Statistics, Bayesian Networks, Hierarchical Neural Dynamics
 - Certified in Python, R, SQL, LaTeX, Bash, Git, and more
 
-> These credentials reflect a multidisciplinary foundation — bridging AI, cloud infrastructure, neuroscience, optics, and ethics — to support innovation at the frontier of science and technology.
+> These credentials reflect a multidisciplinary foundation - bridging AI, cloud infrastructure, neuroscience, optics, and ethics - to support innovation at the frontier of science and technology.
 
 
 ---
