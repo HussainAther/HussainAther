@@ -12,6 +12,44 @@ I operate at the convergence of:
 * 🔍 **Deep tech R\&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.
 * 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R\&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
 
+Absolutely — here’s a section you can **add to your GitHub README** to highlight your experience and future vision with **RBYRCT**:
+
+---
+
+## 🧠 RBYRCT: Imaging Innovation Across Disciplines
+
+**RBYRCT (Ray-by-Ray Computed Tomography)** is a cross-domain imaging innovation I've actively contributed to — a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
+
+### 🚀 Key Contributions
+
+* Developed and refined **multiplicative algebraic reconstruction techniques (MART)** tailored for low-dose, high-resolution imaging.
+* Integrated **Wu-style anti-aliasing methods** to enhance clarity and resolution while minimizing computational noise.
+* Participated in hardware prototyping discussions involving steerable ray emitters and **Janus sphere deflection systems**.
+* Applied RBYRCT to simulate **quantum-level photon control**, setting groundwork for photon-based imaging systems in quantum computing.
+
+### 🔬 Use Cases Explored
+
+* **Medical Imaging**: Low-dose CT, portable surgical devices, breast cancer early screening.
+* **Industrial Inspection**: Non-destructive testing (pipelines, turbine blades, etc.).
+* **Astronomy**: Photon pathway reconstructions for dark matter tracking.
+* **Cultural Heritage**: Non-invasive analysis of ancient artifacts and art.
+* **AI Integration**: Providing ultra-high-quality training sets for edge-case detection models.
+
+### 🛤️ What's Next: A Vision for Expansion
+
+I’m actively exploring:
+
+* **Patent strategy** across modular RBYRCT components.
+* **Domain-specific spin-offs** in bioimaging, AI input refinement, and mobile diagnostics.
+* **Collaborations** with physics labs, health-tech startups, and research institutions to evolve RBYRCT into a multi-disciplinary, globally-impacting imaging ecosystem.
+* Building an ecosystem of tools, protocols, and algorithms that make **cutting-edge reconstruction scalable and open to other developers**.
+
+### 📚 Long-Term Goal
+
+To make RBYRCT the **Linux of imaging** — adaptable, open-source friendly, and foundational to the next generation of image-based research and diagnostics.
+
+
+
 ---
 
 ## 🚀 What I’m Working On
@@ -37,66 +75,66 @@ Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB,
 ### 🧠 **AI/ML & Data Science**
 
 * **Deep Learning**:
-  PyTorch, TensorFlow, Keras, PyTorch Lightning
-  *Applications*: medical imaging (RBYRCT), segmentation (UNet, ResNet), generative models (GANs), CT denoising
+PyTorch, TensorFlow, Keras, PyTorch Lightning
+*Applications*: medical imaging (RBYRCT), segmentation (UNet, ResNet), generative models (GANs), CT denoising
 
 * **Classical Machine Learning**:
-  scikit-learn, XGBoost, LightGBM, CatBoost
-  *Domains*: biological signal classification, scientific pattern recognition, evolutionary trait modeling
+scikit-learn, XGBoost, LightGBM, CatBoost
+*Domains*: biological signal classification, scientific pattern recognition, evolutionary trait modeling
 
 * **NLP & LLMs**:
-  HuggingFace Transformers, spaCy, LangChain, OpenAI API, sentence-transformers
-  *Use Cases*: scientific document summarization, LLM-integrated education platforms (Alter Learning), knowledge graph generation
+HuggingFace Transformers, spaCy, LangChain, OpenAI API, sentence-transformers
+*Use Cases*: scientific document summarization, LLM-integrated education platforms (Alter Learning), knowledge graph generation
 
 * **Reinforcement Learning**:
-  Stable Baselines3, custom environments via OpenAI Gym
-  *Applications*: biofeedback systems, adaptive learning, multi-agent coordination (swarm robotics)
+Stable Baselines3, custom environments via OpenAI Gym
+*Applications*: biofeedback systems, adaptive learning, multi-agent coordination (swarm robotics)
 
 * **Probabilistic Modeling & Time-Series**:
-  PyMC, Prophet, statsmodels
-  *Applications*: neuronal spike trains, connectomics, bioelectric signal modeling, climate modeling (early-Earth)
+PyMC, Prophet, statsmodels
+*Applications*: neuronal spike trains, connectomics, bioelectric signal modeling, climate modeling (early-Earth)
 
 * **Generative Models & Simulations**:
-  GANs, VAE, DDPMs
-  *Use Cases*: image super-resolution, partial-view inpainting, synthetic datasets for low-data biology tasks
+GANs, VAE, DDPMs
+*Use Cases*: image super-resolution, partial-view inpainting, synthetic datasets for low-data biology tasks
 
 * **Visualization & Interactive Analytics**:
-  Seaborn, Matplotlib, Plotly, Bokeh, Altair, Tableau, D3.js
-  *Used in*: simulations, lineage trees, differentiator waves, interactive dashboards
+Seaborn, Matplotlib, Plotly, Bokeh, Altair, Tableau, D3.js
+*Used in*: simulations, lineage trees, differentiator waves, interactive dashboards
 
 * **Scientific Computing & Numerical Methods**:
-  SciPy, NumPy, Numba, NEURON, Blue Brain, NetPyNE, SimPy, SymPy
-  *Specialties*: Monte Carlo simulations (TOPAS, Geant4), agent-based modeling, dynamical systems, stochastic differential equations
+SciPy, NumPy, Numba, NEURON, Blue Brain, NetPyNE, SimPy, SymPy
+*Specialties*: Monte Carlo simulations (TOPAS, Geant4), agent-based modeling, dynamical systems, stochastic differential equations
 
 * **Model Lifecycle Tools**:
-  MLflow, Weights & Biases (W\&B), DVC
-  *Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
+MLflow, Weights & Biases (W\&B), DVC
+*Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
 
 ## 📜 Certifications & Scientific Credentials
 
 ### 🧠 AI/ML, Imaging, and Scientific Computing
 - **SPIE Society for Optics and Photonics**
-  - Photon Counting for Low-Light Imaging
-  - Neural Biopsypsy: Sony Biovision Systems & Neural Interfaces
+- Photon Counting for Low-Light Imaging
+- Neural Biopsypsy: Sony Biovision Systems & Neural Interfaces
 - **AWS Certified Machine Learning – Specialty**
-  - Advanced ML workflows in cloud environments (model training, tuning, deployment)
+- Advanced ML workflows in cloud environments (model training, tuning, deployment)
 - **Amazon Web Services (AWS) Cloud Certifications**
-  - Solutions Architect – Associate
-  - Developer – Professional
-  - Advanced Networking – Specialty
-  - SysOps Administrator – Associate
-  - Cloud Practitioner
+- Solutions Architect – Associate
+- Developer – Professional
+- Advanced Networking – Specialty
+- SysOps Administrator – Associate
+- Cloud Practitioner
 
 ### 🎮 XR / Game Development
 - **Unity Technologies**
-  - Unity Certified 3D Developer (University of Toronto School of Continuing Studies)
-  - C# Scripting Fundamentals in Unity
+- Unity Certified 3D Developer (University of Toronto School of Continuing Studies)
+- C# Scripting Fundamentals in Unity
 
 ### 🧪 Research Ethics & Clinical Protocols
 - **Tri-Council Policy Statement (TCPS2 – Canada)**
-  - Human Research Ethics, Observational & Clinical Neuroscience, Genetic Research Modules
+- Human Research Ethics, Observational & Clinical Neuroscience, Genetic Research Modules
 - **Blue Morpho Workshop (SPIE)**
-  - *Neuroethics: Brain, Drugs, Downloaded Thinking & Artificial Consciousness in Anthropology & Neuroscience*
+- *Neuroethics: Brain, Drugs, Downloaded Thinking & Artificial Consciousness in Anthropology & Neuroscience*
 
 ### 📚 Additional Coursework & Tools
 - Software Engineering, Deep Statistics, Bayesian Networks, Hierarchical Neural Dynamics
@@ -178,34 +216,34 @@ Metabase, Superset, Streamlit, Dash
 ## 🧪 **Scientific Computing & Bioinformatics**
 
 * **Genomic & Molecular Biology**:
-  RNA-Seq, scRNA-Seq, ChIP-Seq, ATAC-Seq, PacBio Iso-Seq, Oxford Nanopore, CRISPR, gene ontology/pathway enrichment, de Bruijn graphs
+RNA-Seq, scRNA-Seq, ChIP-Seq, ATAC-Seq, PacBio Iso-Seq, Oxford Nanopore, CRISPR, gene ontology/pathway enrichment, de Bruijn graphs
 
 * **Neuroinformatics**:
-  Spike train modeling, connectome analysis, synaptic dynamics, fMRI/EEG/MEG multimodal analysis
+Spike train modeling, connectome analysis, synaptic dynamics, fMRI/EEG/MEG multimodal analysis
 
 * **Modeling & Simulations**:
-  Linear/nonlinear dynamical systems, SDEs, bifurcation theory, spectral methods, HMMs, Bayesian nets, agent-based modeling
+Linear/nonlinear dynamical systems, SDEs, bifurcation theory, spectral methods, HMMs, Bayesian nets, agent-based modeling
 
 * **Simulation Tools**:
-  TOPAS, Geant4, SimPy, NEURON, NEST, Blue Brain tools, Biopython, Bioconductor, VEP, Galaxy
+TOPAS, Geant4, SimPy, NEURON, NEST, Blue Brain tools, Biopython, Bioconductor, VEP, Galaxy
 
 ---
 
 ## 🧠 **Neuroscience / Imaging / XR**
 
 * **Imaging & Signal Processing**:
-  CT, fMRI, qEEG, PET, MEG, DTI, NIRS, spike train stats, ICA/PCA, ERP modeling
+CT, fMRI, qEEG, PET, MEG, DTI, NIRS, spike train stats, ICA/PCA, ERP modeling
 
 * **Image Reconstruction & Analysis**:
-  MART, Wu anti-aliasing, ray-by-ray CT, sparse-angle CT, inpainting, denoising, UNet/ResNet segmentation, 3D printable modeling
+MART, Wu anti-aliasing, ray-by-ray CT, sparse-angle CT, inpainting, denoising, UNet/ResNet segmentation, 3D printable modeling
 
 ### 🧿 **3D Graphics & Visualization**
 
 * **Frameworks & Libraries**:
-  Three.js, WebGL, Babylon.js, Unity WebGL, A-Frame
+Three.js, WebGL, Babylon.js, Unity WebGL, A-Frame
 * **Tools**: Blender, Maya, ZBrush, Substance Painter, Figma
 * **Applications**:
-  Interactive 3D simulations for neuroscience, XR-based learning environments, molecular visualization, ray-traced imaging, and immersive data storytelling
+Interactive 3D simulations for neuroscience, XR-based learning environments, molecular visualization, ray-traced imaging, and immersive data storytelling
 
 ---
 
@@ -216,10 +254,10 @@ Metabase, Superset, Streamlit, Dash
 * **Design & Prototyping**: Figma, Adobe Aero, Gravity Sketch
 * **Applications**:
 
-  * Medical XR systems (diagnostic overlays, imaging interaction)
-  * Neuroadaptive XR for education and cognitive feedback
-  * AR/VR environments for K–12 learning, science simulation, and behavioral research
-  * Experimental spatial interfaces for data storytelling and embodied interaction
+* Medical XR systems (diagnostic overlays, imaging interaction)
+* Neuroadaptive XR for education and cognitive feedback
+* AR/VR environments for K–12 learning, science simulation, and behavioral research
+* Experimental spatial interfaces for data storytelling and embodied interaction
 
 ---
 
