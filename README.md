@@ -12,8 +12,6 @@ I operate at the convergence of:
 * 🔍 **Deep tech R\&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.
 * 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R\&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
 
-Absolutely - here’s a section you can **add to your GitHub README** to highlight your experience and future vision with **RBYRCT**:
-
 ---
 
 ## 🧠 RBYRCT: Imaging Innovation Across Disciplines
