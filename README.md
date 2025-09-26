@@ -12,6 +12,13 @@ I operate at the convergence of:
 * 🔍 **Deep tech R\&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.
 * 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R\&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
 
+![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussainAther&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HussainAther&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HussainAther&theme=radical)](https://git.io/streak-stats)
+
+
 ---
 
 ## 🧠 RBYRCT: Imaging Innovation Across Disciplines
@@ -294,10 +301,5 @@ I’m open to research collaborations, advisory roles, speaking engagements, and
 - Twitter: [@SHussainAther](https://twitter.com/SHussainAther)  
 
 
-![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussainAther&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HussainAther&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HussainAther&theme=radical)](https://git.io/streak-stats)
 
 ---
