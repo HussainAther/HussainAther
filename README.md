@@ -28,7 +28,6 @@ I operate at the convergence of:
 ### 🚀 Key Contributions
 
 * Developed and refined **multiplicative algebraic reconstruction techniques (MART)** tailored for low-dose, high-resolution imaging.
-* Integrated **Wu-style anti-aliasing methods** to enhance clarity and resolution while minimizing computational noise.
 * Participated in hardware prototyping discussions involving steerable ray emitters and **Janus sphere deflection systems**.
 * Applied RBYRCT to simulate **quantum-level photon control**, setting groundwork for photon-based imaging systems in quantum computing.
 
