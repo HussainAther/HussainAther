@@ -27,7 +27,7 @@ I operate at the convergence of:
 
 ## 🧠 RBYRCT: Imaging Innovation Across Disciplines
 
-**RBYRCT (Ray-by-Ray Computed Tomography)** is a cross-domain imaging innovation I've actively contributed to — a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
+**RBYRCT (Ray-by-Ray Computed Tomography)** is a cross-domain imaging innovation I've actively contributed to - a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
 
 ### 🚀 Key Contributions
 
@@ -54,7 +54,7 @@ I’m actively exploring:
 
 ### 📚 Long-Term Goal
 
-To make RBYRCT the **Linux of imaging** — adaptable, open-source friendly, and foundational to the next generation of image-based research and diagnostics.
+To make RBYRCT the **Linux of imaging** - adaptable, open-source friendly, and foundational to the next generation of image-based research and diagnostics.
 
 
 
