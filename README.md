@@ -1,6 +1,6 @@
 # 🧠 Syed Hussain Ather
 
-## **AI Engineer • Imaging Innovator • Founder, Janus Sphere Innovations**
+## **AI Engineer | AI Agents, Developer Tooling & APIs | Open Source (WebXR, ML Systems)**
 
 ## 🔬 About Me
 
@@ -16,12 +16,18 @@ Available for consulting and advisory roles in:
 
 Contact: shussainather@gmail.com
 
+---
 
-I operate at the convergence of:
+## 🔧 Relevant Experience (AI Agents & Developer Tooling)
 
-* 🧠 **Neurodivergent insight**: Diagnosed with autism, I’ve reframed cognition as architecture - driving focus, clarity, and complexity.
-* 🔍 **Deep tech R\&D**: Patents, peer-reviewed publications, and open-source frameworks for imaging, simulation, and learning tools.
-* 💼 **Founder energy**: As co-founder of **Janus Sphere Innovations**, I lead R\&D for programmable imaging systems that aim to revolutionize early-stage cancer detection and more.
+• Built and deployed AI agent systems using LLM orchestration (AAK TeleScience, MCP workflows), including context-aware pipelines, recommendation systems, and real-time data APIs
+
+• Contributed to large-scale open-source ecosystems (WebXR / Hubs Foundation), collaborating across distributed teams on XR platforms used by thousands of developers
+
+• Designed and shipped developer-facing systems: REST/GraphQL APIs, microservices, and data pipelines supporting AI-powered applications and scientific platforms
+
+• Experience building cross-platform tools (web + XR + backend) with a focus on performance, usability, and real-world deployment
+
 
 ---
 
