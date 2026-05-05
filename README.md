@@ -18,7 +18,7 @@ Contact: shussainather@gmail.com
 
 ---
 
-## 🔧 Relevant Experience (AI Agents & Developer Tooling)
+## 🔧 AI Agents & Developer Tooling
 
 • Built and deployed AI agent systems using LLM orchestration (AAK TeleScience, MCP workflows), including context-aware pipelines, recommendation systems, and real-time data APIs
 
