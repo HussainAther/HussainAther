@@ -33,7 +33,7 @@ Contact: shussainather@gmail.com
 
 ## 🧠 RBYRCT: Imaging Innovation Across Disciplines
 
-**RBYRCT (Ray-by-Ray Computed Tomography)** is a cross-domain imaging innovation I've actively contributed to - a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
+**RBYRCT (Ray-by-Ray Computed Tomography)** is a cross-domain imaging innovation I've invented - a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
 
 ### 🚀 Key Contributions
 
