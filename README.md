@@ -6,7 +6,6 @@
 
 I'm a systems-oriented engineer and scientific thinker building advanced technologies across medical imaging, AI, education, and scientific collaboration. I specialize in developing **ray-by-ray computed tomography (RBYRCT)**, leading AI teams, and architecting full-stack tools that power both deep science and accessible learning.
 
-
 Available for consulting and advisory roles in:
 
 • AI / ML systems
@@ -15,6 +14,8 @@ Available for consulting and advisory roles in:
 • Scientific computing infrastructure
 
 Contact: shussainather@gmail.com
+
+https://toptal.com/QvDQxE/worlds-top-talent
 
 ---
 
