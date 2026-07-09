@@ -1,299 +1,372 @@
 # Syed Hussain Ather
 
-## AI Engineer | AI Agents, Developer Tooling & APIs | Open Source (WebXR, ML Systems)
+**AI Engineer · Computational Scientist · Founder, Janus Sphere Innovations**
 
-## About Me
+I build open scientific software, production AI systems, and 
+computational imaging technologies that bridge machine learning, 
+physics, biology, and engineering.
 
-I'm a systems-oriented engineer and scientific thinker building advanced technologies across medical imaging, AI, education, and scientific collaboration. I specialize in developing ray-by-ray computed tomography (RBYRCT), leading AI teams, and architecting full-stack tools that power both deep science and accessible learning.
+My work spans medical imaging, agentic AI, simulation, XR, 
+scientific computing, and open-source infrastructure. Rather than 
+focusing on a single domain, I build reusable computational tools 
+that accelerate scientific discovery across disciplines.
 
-Available for consulting and advisory roles in:
+Many of the repositories here are part of a broader long-term vision 
+through **Janus Sphere Innovations**: creating open, reproducible 
+software for next-generation computational science.
 
-• AI / ML systems
-• Medical imaging
-• Simulation pipelines
-• Scientific computing infrastructure
+📧 shussainather@gmail.com · 
+🌐 hussainather.com · 
+💼 [LinkedIn](https://linkedin.com/in/syed-hussain-ather-049919137) · 
+🐦 [@SHussainAther](https://twitter.com/SHussainAther)
 
-Contact: shussainather@gmail.com
-
----
-
-## AI Agents & Developer Tooling
-
-• Built and deployed AI agent systems using LLM orchestration (AAK TeleScience, MCP workflows), including context-aware pipelines, recommendation systems, and real-time data APIs
-
-• Contributed to large-scale open-source ecosystems (WebXR / Hubs Foundation), collaborating across distributed teams on XR platforms used by thousands of developers
-
-• Designed and shipped developer-facing systems: REST/GraphQL APIs, microservices, and data pipelines supporting AI-powered applications and scientific platforms
-
-• Experience building cross-platform tools (web + XR + backend) with a focus on performance, usability, and real-world deployment
+[![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
 ---
 
-## RBYRCT: Imaging Innovation Across Disciplines
+## Table of Contents
 
-RBYRCT (Ray-by-Ray Computed Tomography) is a cross-domain imaging innovation I've invented - a novel algorithmic and conceptual framework for reconstructing high-fidelity internal structure images across medicine, industry, and beyond.
+- [Janus Sphere Innovations](#janus-sphere-innovations)
+- [RBYRCT](#rbyrct)
+- [AI Engineering](#ai-engineering)
+- [Open Scientific Computing](#open-scientific-computing)
+- [Open Source Contributions](#open-source-contributions)
+- [Selected Repositories](#selected-repositories)
+- [Technology Stack](#technology-stack)
+- [Publications & IP](#publications--ip)
+- [Certifications](#certifications)
+- [Contact & Collaboration](#contact--collaboration)
+
+---
+
+## Janus Sphere Innovations
+
+**Janus Sphere Innovations (JSI)** is my long-term research and 
+engineering initiative dedicated to developing computational 
+technologies for medicine, scientific discovery, and intelligent 
+measurement.
+
+JSI is the umbrella connecting my work across imaging, simulation, 
+AI, and open scientific infrastructure. The goal is to build tools 
+that are open, reproducible, and useful to researchers, engineers, 
+and clinicians for decades to come.
+
+**Current focus areas:**
+- Ray-by-Ray Computed Tomography (RBYRCT)
+- Agentic AI systems for scientific workflows
+- Monte Carlo simulation pipelines
+- Computational biology and origin-of-life modeling
+- Open scientific infrastructure
+- AI-assisted research and education platforms
+
+---
+
+## RBYRCT
+
+**Ray-by-Ray Computed Tomography (RBYRCT)** is a novel algorithmic 
+and conceptual framework I developed for reconstructing high-fidelity 
+internal structure images — with applications across medicine, 
+industry, astronomy, and beyond.
+
+### Scientific Motivation
+
+Conventional CT systems acquire data in fixed, pre-determined 
+geometric patterns. RBYRCT introduces the idea of *steerable* 
+ray-by-ray acquisition — using programmable beam paths and Janus 
+sphere deflection systems to concentrate imaging energy precisely 
+where it matters, reducing dose while improving resolution for small 
+or early-stage targets.
 
 ### Key Contributions
 
-* Developed and refined multiplicative algebraic reconstruction techniques (MART) tailored for low-dose, high-resolution imaging.
-* Participated in hardware prototyping discussions involving steerable ray emitters and Janus sphere deflection systems.
-* Applied RBYRCT to simulate quantum-level photon control, setting groundwork for photon-based imaging systems in quantum computing.
+- Developed and refined **Multiplicative Algebraic Reconstruction 
+  Technique (MART)** tailored for low-dose, high-resolution imaging
+- Integrated **Wu anti-aliasing** for smooth line approximation and 
+  reduced reconstruction artifacts
+- Designed **Monte Carlo simulation pipelines** using TOPAS and 
+  Geant4 for photon transport modeling
+- Implemented **deep learning denoising and inpainting** for 
+  limited-angle and sparse-view scenarios
+- Conducted hardware prototyping discussions involving steerable 
+  ray emitters and Janus sphere deflection systems
+- Building toward **patent portfolio** across modular RBYRCT 
+  components
 
-### Use Cases Explored
+### Software & Simulation Stack
 
-* Medical Imaging: Low-dose CT, portable surgical devices, breast cancer early screening.
-* Industrial Inspection: Non-destructive testing (pipelines, turbine blades, etc.).
-* Astronomy: Photon pathway reconstructions for dark matter tracking.
-* Cultural Heritage: Non-invasive analysis of ancient artifacts and art.
-* AI Integration: Providing ultra-high-quality training sets for edge-case detection models.
+| Layer | Tools |
+|---|---|
+| Reconstruction | MART, Wu anti-aliasing, UNet, ResNet |
+| Simulation | TOPAS, Geant4, Monte Carlo |
+| Deep Learning | PyTorch, TensorFlow |
+| Visualization | Three.js, WebGL, Plotly, Matplotlib |
+| Infrastructure | Docker, FastAPI, GitHub Actions |
 
-### What's Next: A Vision for Expansion
+### Applications
 
-I’m actively exploring:
+- **Medical Imaging** — Low-dose CT, breast cancer early screening, 
+  portable surgical devices
+- **Industrial Inspection** — Non-destructive testing of pipelines, 
+  turbine blades, and structural components
+- **Astronomy** — Photon pathway reconstruction for sparse-signal 
+  environments
+- **Cultural Heritage** — Non-invasive analysis of ancient artifacts 
+  and art
+- **AI Training Data** — Ultra-high-quality synthetic datasets for 
+  edge-case detection models
 
-* Patent strategy across modular RBYRCT components.
-* Domain-specific spin-offs in bioimaging, AI input refinement, and mobile diagnostics.
-* Collaborations with physics labs, health-tech startups, and research institutions to evolve RBYRCT into a multi-disciplinary, globally-impacting imaging ecosystem.
-* Building an ecosystem of tools, protocols, and algorithms that make cutting-edge reconstruction scalable and open to other developers.
+### Roadmap
 
-### Long-Term Goal
+- Validate algorithms through simulation and proof-of-concept 
+  prototyping
+- Expand patent portfolio across core RBYRCT components
+- Pursue NVIDIA Inception program and NIH grant funding
+- Initiate clinical collaborations for early breast cancer detection 
+  trials
+- Build open modular ecosystem for computational imaging research
 
-To make RBYRCT the Linux of imaging - adaptable, open-source friendly, and foundational to the next generation of image-based research and diagnostics.
-
----
-
-## What I’m Working On
-
-| Project | Description |
-| --- | --- |
-| **RBYRCT** | Ray-by-ray computed tomography using steerable beams + Janus spheres. Published in JAIR (2024). Patent portfolio in development. |
-| **Janus Sphere Innovations** | Startup pioneering programmable imaging for medicine, space science, art restoration, and quantum physics. |
-| **[Alter Learning](https://alter-learning.com)** | As AI Team Lead, I lead the design and deployment of LLM-integrated platforms for STEAM education, building tools in Python, FastAPI, Streamlit, and XR environments to deliver scalable, gamified learning solutions. |
-| **[AAK TeleScience](https://aakscience.com)** | Building a global AI-powered collaboration platform for scientists and investors: recommendation engines, vector databases, behavioral analytics, and researcher-in-residence tracking systems. |
-| **Multi-Domain Research Projects** | Building and leading GitHub-driven simulations on topics including early-Earth climate, peptide membrane dynamics, bioelectricity-driven differentiation, diatom optics, quantum imaging, archaea morphology, exoplanet transits, and more. |
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-Python, C, C++, C#, Java, JavaScript, TypeScript, Go, Haskell, Julia, R, MATLAB, Swift, Perl, Bash, SQL, HTML/CSS, LaTeX, XML
-
----
-
-### AI/ML & Data Science
-
-* **Deep Learning**:
-PyTorch, TensorFlow, Keras, PyTorch Lightning
-*Applications*: medical imaging (RBYRCT), segmentation (UNet, ResNet), generative models (GANs), CT denoising
-* **Classical Machine Learning**:
-scikit-learn, XGBoost, LightGBM, CatBoost
-*Domains*: biological signal classification, scientific pattern recognition, evolutionary trait modeling
-* **NLP & LLMs**:
-HuggingFace Transformers, spaCy, LangChain, OpenAI API, sentence-transformers
-*Use Cases*: scientific document summarization, LLM-integrated education platforms (Alter Learning), knowledge graph generation
-* **Reinforcement Learning**:
-Stable Baselines3, custom environments via OpenAI Gym
-*Applications*: biofeedback systems, adaptive learning, multi-agent coordination (swarm robotics)
-* **Probabilistic Modeling & Time-Series**:
-PyMC, Prophet, statsmodels
-*Applications*: neuronal spike trains, connectomics, bioelectric signal modeling, climate modeling (early-Earth)
-* **Generative Models & Simulations**:
-GANs, VAE, DDPMs
-*Use Cases*: image super-resolution, partial-view inpainting, synthetic datasets for low-data biology tasks
-* **Visualization & Interactive Analytics**:
-Seaborn, Matplotlib, Plotly, Bokeh, Altair, Tableau, D3.js
-*Used in*: simulations, lineage trees, differentiator waves, interactive dashboards
-* **Scientific Computing & Numerical Methods**:
-SciPy, NumPy, Numba, NEURON, Blue Brain, NetPyNE, SimPy, SymPy
-*Specialties*: Monte Carlo simulations (TOPAS, Geant4), agent-based modeling, dynamical systems, stochastic differential equations
-* **Model Lifecycle Tools**:
-MLflow, Weights & Biases (W&B), DVC
-*Use Cases*: managing AI experiments across research projects and startups (e.g., RBYRCT, Alter Learning)
-
-## Certifications & Scientific Credentials
-
-### AI/ML, Imaging, and Scientific Computing
-
-* **SPIE Society for Optics and Photonics**
-* Photon Counting for Low-Light Imaging
-* Neural Biopsypsy: Sony Biovision Systems & Neural Interfaces
-* **AWS Certified Machine Learning – Specialty**
-* Advanced ML workflows in cloud environments (model training, tuning, deployment)
-* **Amazon Web Services (AWS) Cloud Certifications**
-* Solutions Architect – Associate
-* Developer – Professional
-* Advanced Networking – Specialty
-* SysOps Administrator – Associate
-* Cloud Practitioner
-
-### XR / Game Development
-
-* **Unity Technologies**
-* Unity Certified 3D Developer (University of Toronto School of Continuing Studies)
-* C# Scripting Fundamentals in Unity
-
-### Research Ethics & Clinical Protocols
-
-* **Tri-Council Policy Statement (TCPS2 – Canada)**
-* Human Research Ethics, Observational & Clinical Neuroscience, Genetic Research Modules
-* **Blue Morpho Workshop (SPIE)**
-* *Neuroethics: Brain, Drugs, Downloaded Thinking & Artificial Consciousness in Anthropology & Neuroscience*
-
-### Additional Coursework & Tools
-
-* Software Engineering, Deep Statistics, Bayesian Networks, Hierarchical Neural Dynamics
-* Certified in Python, R, SQL, LaTeX, Bash, Git, and more
-
-> These credentials reflect a multidisciplinary foundation - bridging AI, cloud infrastructure, neuroscience, optics, and ethics - to support innovation at the frontier of science and technology.
+> *Long-term vision: an open, extensible platform for computational 
+> imaging — adaptable, reproducible, and foundational to 
+> next-generation image-based research and diagnostics.*
 
 ---
 
-### Data & Database Systems
+## AI Engineering
 
-**Relational Databases**:
-PostgreSQL, MySQL, SQLite, MS SQL Server
-(Use cases: OLAP/OLTP applications, transactional systems, academic datasets)
+### Alter Learning *(AI Team Lead)*
 
-**NoSQL Databases**:
-MongoDB, Redis, Neo4j
-(Use cases: document stores for ML pipelines, real-time graph traversal for behavioral analytics)
+Led design and deployment of LLM-integrated platforms for STEAM 
+education. Built tools in Python, FastAPI, Streamlit, and XR 
+environments to deliver scalable, gamified learning solutions.
 
-**Time-Series & Scientific Storage**:
-InfluxDB, NetCDF, HDF5
-(Use cases: climate modeling, physiological signal data like EEG, HRV, etc.)
+- Agentic AI workflows with LangGraph and MCP
+- LLM-enabled content pipelines (GPT-4, Claude, Gemini)
+- Adaptive learning algorithms and student behavior analytics
+- XR-based immersive educational environments
+- RAG pipelines and knowledge graph generation
 
-**Big Data & Distributed Systems**:
-Apache Spark, Hadoop, Dask
-(Use cases: parallel simulations, genomics, image batch processing)
+### AAK TeleScience *(AI Engineer)*
 
-**Data Workflow & Orchestration**:
-Airflow, Luigi, Prefect
-(Use cases: multi-step data prep + model training pipelines for ML/AI products)
+Building a global AI-powered collaboration platform for scientists 
+and investors.
 
-**Core Libraries & Frameworks**:
-Pandas, NumPy, Vaex, DVC
-(Use cases: rapid data wrangling, simulation logging, reproducible scientific modeling)
+- Recommendation engines and vector databases
+- Behavioral analytics and researcher-in-residence tracking
+- Real-time data APIs and FastAPI microservices
+- Secure API architecture (JWT/OAuth2, REST/GraphQL)
 
-**Visualization & Dashboarding**:
-Metabase, Superset, Streamlit, Dash
-(Use cases: internal analytics tools, user-facing data dashboards, grant reporting interfaces)
+### Developer Tooling & Infrastructure
 
----
-
-### Web & API Development
-
-**Backend Development**
-
-* Frameworks: **FastAPI**, **Flask**, **Django**, **Node.js (Express)**
-* API Architectures: **REST**, **GraphQL**, **WebSockets**, **gRPC**
-* Design Principles: asynchronous I/O, dependency injection, API versioning, JWT/OAuth2 authentication
-* Use Cases: internal data services, ML model serving, microservice orchestration, scientific toolchains
-
-**Frontend Development**
-
-* Libraries/Frameworks: **React**, **Next.js**, **AngularJS**, **Vue**, **Svelte**
-* Styling & UI: **Tailwind CSS**, **Bootstrap**, **Chakra UI**, **Material UI**
-* Use Cases: educational dashboards, real-time collaborative platforms, simulation controls, telemetry monitors
-
-**Full-Stack Development & Dev Patterns**
-
-* Integrated server-client deployments using **Monorepos**, **TurboRepo**, **NX**, **Vite**
-* SSR/ISR via **Next.js**, state management via **Redux**, **Zustand**, **Recoil**
-* WebSockets for real-time updates (used in biofeedback, educational games, and XR UIs)
-* JAMStack architectures (e.g., **Netlify**, **Vercel**, **Firebase**) for lightweight frontends + serverless APIs
-
-**LLM & AI API Integration**
-
-* Built **LLM-enabled tools** for STEAM education (GPT-4, Claude, Gemini via API)
-* Prompt chaining + memory modules with **LangChain**, **Haystack**, **RAG pipelines**
-* Custom fine-tuned model endpoints integrated with web UIs for real-time inference
-
-**API Consumption & DevOps Tooling**
-
-* API testing: **Postman**, **Insomnia**
-* Documentation: **Swagger**, **OpenAPI**, **Redoc**
-* CI/CD for API updates: GitHub Actions, GitLab CI/CD
+- Built and deployed AI agent systems using LLM orchestration 
+  including context-aware pipelines and real-time data APIs
+- Contributed to large-scale open-source ecosystems (WebXR / 
+  Hubs Foundation), collaborating across distributed teams on XR 
+  platforms used by thousands of developers
+- Designed REST/GraphQL APIs, microservices, and data pipelines 
+  supporting AI-powered applications and scientific platforms
+- Cross-platform tools (web + XR + backend) with focus on 
+  performance, usability, and real-world deployment
 
 ---
 
-## Scientific Computing & Bioinformatics
+## Open Scientific Computing
 
-* **Genomic & Molecular Biology**:
-RNA-Seq, scRNA-Seq, ChIP-Seq, ATAC-Seq, PacBio Iso-Seq, Oxford Nanopore, CRISPR, gene ontology/pathway enrichment, de Bruijn graphs
-* **Neuroinformatics**:
-Spike train modeling, connectome analysis, synaptic dynamics, fMRI/EEG/MEG multimodal analysis
-* **Modeling & Simulations**:
-Linear/nonlinear dynamical systems, SDEs, bifurcation theory, spectral methods, HMMs, Bayesian nets, agent-based modeling
-* **Simulation Tools**:
-TOPAS, Geant4, SimPy, NEURON, NEST, Blue Brain tools, Biopython, Bioconductor, VEP, Galaxy
+### Origin of Life & Molecular Self-Assembly
 
----
+Computational and thermodynamic modeling of prebiotic amphiphile 
+systems and early-Earth chemistry.
 
-## Neuroscience / Imaging / XR
+- Coarse-grained molecular dynamics (GROMACS, AMBER, Martini)
+- Peptide membrane formation and micelle dynamics
+- Early-Earth climate simulation
+- Stochastic molecular topology generation
 
-* **Imaging & Signal Processing**:
-CT, fMRI, qEEG, PET, MEG, DTI, NIRS, spike train stats, ICA/PCA, ERP modeling
-* **Image Reconstruction & Analysis**:
-MART, Wu anti-aliasing, ray-by-ray CT, sparse-angle CT, inpainting, denoising, UNet/ResNet segmentation, 3D printable modeling
+### Computational Neuroscience
 
-### 3D Graphics & Visualization
+Simulation and analysis of neural systems across scales.
 
-* **Frameworks & Libraries**:
-Three.js, WebGL, Babylon.js, Unity WebGL, A-Frame
-* **Tools**: Blender, Maya, ZBrush, Substance Painter, Figma
-* **Applications**:
-Interactive 3D simulations for neuroscience, XR-based learning environments, molecular visualization, ray-traced imaging, and immersive data storytelling
+- Spike train modeling and connectome analysis (NEURON, Blue Brain, 
+  NetPyNE)
+- Synaptic dynamics and bioelectricity-driven differentiation
+- fMRI/EEG/MEG multimodal analysis
+- Connectomics and neural circuit reconstruction
 
----
+### Ruliology & Complex Systems
 
-### XR (AR/VR/Spatial Computing)
+Exploring entropy, emergence, and instability dynamics as a 
+potential new mathematical subfield (PCC / EBID — 
+Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 
-* **Engines**: Unity, Unreal Engine, WebXR
-* **Tooling**: Meta Spark Studio, VisionOS SDK, Reality Composer, Tilt Brush, VRTK, Blender, Maya, ZBrush, Figma, Meta Spark Studio, VisionOS SDK
-* **Design & Prototyping**: Figma, Adobe Aero, Gravity Sketch
-* **Applications**:
-* Medical XR systems (diagnostic overlays, imaging interaction)
-* Neuroadaptive XR for education and cognitive feedback
-* AR/VR environments for K–12 learning, science simulation, and behavioral research
-* Experimental spatial interfaces for data storytelling and embodied interaction
+- Cellular automata and complex systems modeling
+- Information dynamics and bifurcation theory
+- Multiple papers in preparation
 
----
+### Bioinformatics & Genomics
 
-### DevOps & Cloud Infrastructure
+- RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq
+- CRISPR, Oxford Nanopore, PacBio Iso-Seq
+- Gene ontology, pathway enrichment, de Bruijn graphs
+- Contributed to SeqAcademy (NIH-funded genomics education)
 
-* Platforms: AWS (Certified Associate + Practitioner), GCP
-* Containers & Orchestration: Docker, Kubernetes
-* CI/CD: GitHub Actions, GitLab CI, automated testing & deployment
+### Computational Physics
+
+- Photon transport: TOPAS, Geant4
+- Numerical methods: SDEs, bifurcation theory, spectral methods
+- Quantum imaging modeling
+- Exoplanet transit simulation and archaea morphology modeling
 
 ---
 
-### GameDev & Interactive Systems
+## Open Source Contributions
 
-* K-12 STEAM game development & XR educational environments
-* Adaptive learning algorithms, student behavior analytics
-* HCI systems for learning + neurodivergence
-* AI-powered content pipelines for curriculum delivery
-
----
-
-### Selected Repos
-
-* [`physics`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther/physics%5D(https://github.com/HussainAther/physics)): Classical + statistical mechanics, electromagnetism
-* [`neuroscience`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther/neuroscience%5D(https://github.com/HussainAther/neuroscience)): Spike trains, synaptic models, and neuroimaging
-* [`philosophy`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther/philosophy%5D(https://github.com/HussainAther/philosophy)): Causal modeling, logic, and epistemology of science
-* [`machinelearning`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther/machinelearning%5D(https://github.com/HussainAther/machinelearning)): Regression, classification, neural nets
-* [`OpenRBYR`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther/OpenRBYR%5D(https://github.com/HussainAther/OpenRBYR)): Public slice of the ray-by-ray CT architecture
-* [`AAK-TeleScience`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther%5D(https://github.com/HussainAther)): Systems for real-time activity tracking, AI-based matching, funding optimization, and scientific data fusion.
-* [`AlterLearning`](https://www.google.com/search?q=%5Bhttps://github.com/HussainAther%5D(https://github.com/HussainAther)): AI pipelines, educational games, LLM-based assistants, and immersive learning modules.
+| Project | Role |
+|---|---|
+| [OpenWorm](https://github.com/openworm) | Contributor — C. elegans simulation |
+| [DevoWorm](https://github.com/devoworm) | Contributor — developmental biology modeling |
+| [Hubs Foundation](https://github.com/Hubs-Foundation) | Contributor — WebXR social platform |
+| [WebXR](https://immersiveweb.dev) | Contributor — open immersive web standards |
+| SeqAcademy | Contributor — NIH genomics education pipeline |
 
 ---
 
-### Contact & Collab
+## Selected Repositories
 
-I’m open to research collaborations, advisory roles, speaking engagements, and deep tech product builds.
+| Repository | Description |
+|---|---|
+| [OpenRBYR](https://github.com/hussainather/OpenRBYR) | Open research platform for RBYRCT algorithms, sparse reconstruction, and simulation |
+| [physics](https://github.com/hussainather/physics) | Classical + statistical mechanics, electromagnetism, numerical methods |
+| [neuroscience](https://github.com/hussainather/neuroscience) | Spike trains, synaptic models, connectomics, neuroimaging |
+| [machinelearning](https://github.com/hussainather/machinelearning) | Regression, classification, neural nets, deep learning |
+| [philosophy](https://github.com/hussainather/philosophy) | Causal modeling, logic, epistemology of science |
+| [pcc](https://github.com/hussainather/pcc) | Pressure-Chaos-Control / Ruliology research framework |
+| [awesome-philosophy](https://github.com/hussainather/awesome-philosophy) | Curated list of philosophy resources (262 ⭐) |
+| [AAK-TeleScience](https://github.com/AAK-Tele-Science) | Real-time activity tracking, AI matching, scientific data fusion |
+| [AlterLearning](https://github.com/ALTER-LEARNING-ARTS) | AI pipelines, educational games, LLM assistants, immersive learning |
+| [RBYRCT-Houdini](https://github.com/hussainather/RBYRCT-Houdini) | RBYRCT simulation and visualization in Houdini |
+| [rbyrct-webgl-demo](https://github.com/hussainather/rbyrct-webgl-demo) | Interactive WebGL demo of RBYRCT reconstruction |
+| [Ruliology-Forge](https://github.com/hussainather/Ruliology-Forge) | Computational framework for ruliology and entropy dynamics |
 
-* Email: shussainather@gmail.com
-* LinkedIn: [syed-hussain-ather-049919137](https://linkedin.com/in/syed-hussain-ather-049919137)
-* Twitter: [@SHussainAther](https://twitter.com/SHussainAther)
+---
+
+## Technology Stack
+
+### Languages
+
+Python · C · C++ · C# · Java · JavaScript · TypeScript · Go · 
+Haskell · Julia · R · MATLAB · Swift · Perl · Bash · SQL · 
+HTML/CSS · LaTeX · XML
+
+### AI & Machine Learning
+
+**Deep Learning:** PyTorch · TensorFlow · Keras · PyTorch Lightning  
+**Classical ML:** scikit-learn · XGBoost · LightGBM · CatBoost  
+**NLP & LLMs:** HuggingFace · LangChain · LangGraph · spaCy · 
+RAG pipelines · MCP  
+**Generative Models:** GANs · VAE · DDPMs  
+**Reinforcement Learning:** Stable Baselines3 · OpenAI Gym  
+**Probabilistic:** PyMC · Prophet · statsmodels  
+**Lifecycle:** MLflow · Weights & Biases · DVC
+
+### Scientific Computing
+
+SciPy · NumPy · Numba · SymPy · SimPy  
+NEURON · Blue Brain · NetPyNE · NEST  
+TOPAS · Geant4 · GROMACS · AMBER · Martini  
+Dynamical systems · SDEs · Agent-based modeling · Monte Carlo
+
+### Medical Imaging & Signal Processing
+
+CT · fMRI · qEEG · PET · MEG · DTI · NIRS  
+MART · Wu anti-aliasing · Sparse-angle CT · Inpainting · Denoising  
+UNet/ResNet segmentation · ICA/PCA · ERP modeling
+
+### Bioinformatics
+
+RNA-seq · scRNA-seq · ChIP-seq · ATAC-seq · CRISPR  
+Oxford Nanopore · PacBio Iso-Seq · de Bruijn graphs  
+Biopython · Bioconductor · Galaxy · VEP
+
+### Web & API
+
+**Backend:** FastAPI · Flask · Django · Node.js · GraphQL · 
+REST · WebSockets · gRPC  
+**Frontend:** React · Next.js · Vue · Svelte · Tailwind CSS  
+**Full-Stack:** Monorepos · TurboRepo · Redux · JAMStack  
+**AI APIs:** GPT-4 · Claude · Gemini · LangChain · Haystack
+
+### Data & Databases
+
+PostgreSQL · MySQL · MongoDB · Redis · Neo4j  
+InfluxDB · NetCDF · HDF5 · Apache Spark · Dask  
+Airflow · Prefect · Pandas · Vaex
+
+### XR & 3D
+
+Unity · Unreal Engine · WebXR · A-Frame · Three.js · WebGL  
+Babylon.js · Blender · Maya · ZBrush · Figma  
+Meta Spark Studio · VisionOS SDK · Reality Composer
+
+### Cloud & DevOps
+
+AWS (Certified) · GCP · Docker · Kubernetes  
+GitHub Actions · GitLab CI · Terraform
+
+---
+
+## Publications & IP
+
+- **Published:** *Ray-by-Ray Computed Tomography using Steerable 
+  Beams and Janus Spheres* — Journal of Artificial Intelligence 
+  Research (JAIR), October 2024
+- **Patent Portfolio:** In development across modular RBYRCT 
+  components through Janus Sphere Innovations
+- **In Preparation:** Multiple papers on Ruliology / PCC / EBID 
+  (Pressure-Chaos-Control / Entropy-Based Instability Dynamics)
+
+---
+
+## Certifications
+
+**AI/ML & Imaging**
+- SPIE Society for Optics and Photonics — Photon Counting for 
+  Low-Light Imaging
+- AWS Certified Machine Learning – Specialty
+- AWS Solutions Architect – Associate
+- AWS Developer – Professional
+- AWS Advanced Networking – Specialty
+- AWS SysOps Administrator – Associate
+
+**XR & Development**
+- Unity Certified 3D Developer (University of Toronto)
+- C# Scripting Fundamentals in Unity
+
+**Research Ethics**
+- Tri-Council Policy Statement (TCPS2 – Canada)
+- Human Research Ethics · Observational & Clinical Neuroscience · 
+  Genetic Research Modules
+- Blue Morpho Workshop (SPIE) — Neuroethics
+
+---
+
+## Research Philosophy
+
+I believe open scientific software is one of the most effective ways 
+to accelerate discovery. Whenever possible, I develop reproducible 
+computational tools, educational resources, and open repositories 
+that make advanced scientific methods more accessible to researchers, 
+students, and engineers.
+
+Science moves faster when the infrastructure is shared.
+
+---
+
+## Contact & Collaboration
+
+Open to research collaborations, advisory roles, speaking 
+engagements, and deep tech product builds.
+
+- 📧 [shussainather@gmail.com](mailto:shussainather@gmail.com)
+- 🌐 [hussainather.com](https://hussainather.com)
+- 💼 [LinkedIn](https://linkedin.com/in/syed-hussain-ather-049919137)
+- 🐦 [@SHussainAther](https://twitter.com/SHussainAther)
+- 📺 [Twitch: hussainather](https://twitch.tv/hussainather)
