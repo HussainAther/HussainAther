@@ -41,6 +41,8 @@ software for next-generation computational science.
 
 ## Janus Sphere Innovations
 
+[https://github.com/janus-sphere](https://github.com/janus-sphere)
+
 **Janus Sphere Innovations (JSI)** is my long-term research and 
 engineering initiative dedicated to developing computational 
 technologies for medicine, scientific discovery, and intelligent 
