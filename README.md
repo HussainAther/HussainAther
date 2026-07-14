@@ -16,7 +16,7 @@ through **Janus Sphere Innovations**: creating open, reproducible
 software for next-generation computational science.
 
 📧 shussainather@gmail.com · 
-🌐 hussainather.com · 
+🌐 [Personal Website](http;//hussainather.com) 
 💼 [LinkedIn](https://linkedin.com/in/syed-hussain-ather-049919137) · 
 🐦 [@SHussainAther](https://twitter.com/SHussainAther)
 
