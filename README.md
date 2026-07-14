@@ -1,6 +1,6 @@
 # Syed Hussain Ather
 
-**AI Engineer · Computational Scientist · Founder, Janus Sphere Innovations**
+**AI Engineer · Computational Scientist · Founder, Janus Sphere Innovations · WebAR and WebXR Game Developer**
 
 I build open scientific software, production AI systems, and 
 computational imaging technologies that bridge machine learning, 
