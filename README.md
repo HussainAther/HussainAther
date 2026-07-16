@@ -227,7 +227,6 @@ Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 | [DevoWorm](https://github.com/devoworm) | Contributor — developmental biology modeling |
 | [Hubs Foundation](https://github.com/Hubs-Foundation) | Contributor — WebXR social platform |
 | [WebXR](https://immersiveweb.dev) | Contributor — open immersive web standards |
-| SeqAcademy | Contributor — NIH genomics education pipeline |
 
 ---
 
