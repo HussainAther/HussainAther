@@ -15,6 +15,8 @@ Many of the repositories here are part of a broader long-term vision
 through **Janus Sphere Innovations**: creating open, reproducible 
 software for next-generation computational science.
 
+[![Hussain's GitHub stats](https://github-stats-extended.vercel.app/api?username=HussainAther](https://github.com/stats-organization/github-stats-extended)
+
 📧 shussainather@gmail.com · 
 🌐 [Personal Website](http://hussainather.com) 
 💼 [LinkedIn](https://linkedin.com/in/syed-hussain-ather-049919137) · 
