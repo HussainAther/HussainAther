@@ -7,9 +7,7 @@ computational imaging technologies that bridge machine learning,
 physics, biology, and engineering.
 
 My work spans medical imaging, agentic AI, simulation, XR, 
-scientific computing, and open-source infrastructure. Rather than 
-focusing on a single domain, I build reusable computational tools 
-that accelerate scientific discovery across disciplines.
+scientific computing, and open-source infrastructure. 
 
 Many of the repositories here are part of a broader long-term vision 
 through **Janus Sphere Innovations**: creating open, reproducible 
