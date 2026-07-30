@@ -84,10 +84,6 @@ or early-stage targets.
 
 - Developed and refined **Multiplicative Algebraic Reconstruction 
   Technique (MART)** tailored for low-dose, high-resolution imaging
-- Integrated **Wu anti-aliasing** for smooth line approximation and 
-  reduced reconstruction artifacts
-- Designed **Monte Carlo simulation pipelines** using TOPAS and 
-  Geant4 for photon transport modeling
 - Implemented **deep learning denoising and inpainting** for 
   limited-angle and sparse-view scenarios
 - Conducted hardware prototyping discussions involving steerable 
