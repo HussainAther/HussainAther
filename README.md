@@ -20,6 +20,7 @@ software for next-generation computational science.
 [Twitch](http://twitch.tv/hussainather) · 
 [Newgrounds](https://electroscribe.newgrounds.com) · 
 [Substack](https://substack.com/@syedhussainather) · 
+[Contra](https://contra.com/hussain_ather_gstpudb0) · 
 
 [![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
