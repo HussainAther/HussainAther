@@ -19,6 +19,7 @@ software for next-generation computational science.
 [LinkedIn](https://linkedin.com/in/syed-hussain-ather-049919137) · 
 [Twitch](http://twitch.tv/hussainather)
 [Newgrounds](https://electroscribe.newgrounds.com)
+[Substack](https://substack.com/@syedhussainather)
 
 [![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
