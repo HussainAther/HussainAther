@@ -308,19 +308,6 @@ Meta Spark Studio · VisionOS SDK · Reality Composer
 
 AWS (Certified) · GCP · Docker · Kubernetes  
 GitHub Actions · GitLab CI · Terraform
-
----
-
-## Publications & IP
-
-- **Published:** *Ray-by-Ray Computed Tomography using Steerable 
-  Beams and Janus Spheres* — Journal of Artificial Intelligence 
-  Research (JAIR), October 2024
-- **Patent Portfolio:** In development across modular RBYRCT 
-  components through Janus Sphere Innovations
-- **In Preparation:** Multiple papers on Ruliology / PCC / EBID 
-  (Pressure-Chaos-Control / Entropy-Based Instability Dynamics)
-
 ---
 
 ## Certifications
