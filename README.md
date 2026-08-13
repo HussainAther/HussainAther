@@ -236,7 +236,7 @@ Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 | [neuroscience](https://github.com/hussainather/neuroscience) | Spike trains, synaptic models, connectomics, neuroimaging |
 | [machinelearning](https://github.com/hussainather/machinelearning) | Regression, classification, neural nets, deep learning |
 | [philosophy](https://github.com/hussainather/philosophy) | Causal modeling, logic, epistemology of science |
-| [pcc](https://github.com/hussainather/pcc) | Pressure-Chaos-Control / Ruliology research framework |
+| [pcc](https://github.com/hussainather/pcc) | Pressure-Chaos-Control / Entropy-Based Instability Dynamics |
 | [awesome-philosophy](https://github.com/hussainather/awesome-philosophy) | Curated list of philosophy resources |
 | [AAK-TeleScience](https://github.com/AAK-Tele-Science) | Real-time activity tracking, AI matching, scientific data fusion |
 | [AlterLearning](https://github.com/ALTER-LEARNING-ARTS) | AI pipelines, educational games, LLM assistants, immersive learning |
