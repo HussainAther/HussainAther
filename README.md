@@ -225,6 +225,7 @@ Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 | [OpenwaterHealth](https://github.com/OpenwaterHealth) | Contributor — open-source medical device tools |
 | [Hubs Foundation](https://github.com/Hubs-Foundation) | Contributor — WebXR social platform            |
 | [WebXR](https://immersiveweb.dev)                     | Contributor — open immersive web standards     |
+| [8th Wall)(https://github.com/8thwall/8thwall)        | Contributor - AR 3D tools                      |
 ---
 
 ## Selected Repositories
