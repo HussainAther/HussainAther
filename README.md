@@ -21,6 +21,7 @@ software for next-generation computational science.
 [Newgrounds](https://electroscribe.newgrounds.com) · 
 [Substack](https://substack.com/@syedhussainather) · 
 [Contra](https://contra.com/hussain_ather_gstpudb0) · 
+[Notion (email to request access](https://app.notion.com/p/Syed-Hussain-Ather-Portfolio-2d93b1d7fd05420fa4589562b8fbd758) · 
 
 [![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
