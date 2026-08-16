@@ -221,12 +221,13 @@ Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 ## Open Source Contributions
 | Project                                               | Role                                           |
 | ----------------------------------------------------- | ---------------------------------------------- |
-| [OpenWorm](https://github.com/openworm)               | Contributor — C. elegans simulation            |
-| [DevoWorm](https://github.com/devoworm)               | Contributor — developmental biology modeling   |
-| [OpenwaterHealth](https://github.com/OpenwaterHealth) | Contributor — open-source medical device tools |
-| [Hubs Foundation](https://github.com/Hubs-Foundation) | Contributor — WebXR social platform            |
-| [WebXR](https://immersiveweb.dev)                     | Contributor — open immersive web standards     |
+| [OpenWorm](https://github.com/openworm)               | Contributor - C. elegans simulation            |
+| [DevoWorm](https://github.com/devoworm)               | Contributor - developmental biology modeling   |
+| [OpenwaterHealth](https://github.com/OpenwaterHealth) | Contributor - open-source medical device tools |
+| [Hubs Foundation](https://github.com/Hubs-Foundation) | Contributor - WebXR social platform            |
+| [WebXR](https://immersiveweb.dev)                     | Contributor - open immersive web standards     |
 | [8th Wall](https://github.com/8thwall/8thwall)        | Contributor - AR 3D tools                      |
+| [Three.js](https://github.com/mrdoob)                 | Contributor - 3D JavaScript library            |
 ---
 
 ## Selected Repositories
