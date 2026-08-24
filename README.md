@@ -40,7 +40,6 @@ software for next-generation computational science.
 - [Selected Repositories](#selected-repositories)
 - [Technology Stack](#technology-stack)
 - [Publications & IP](#publications--ip)
-- [Certifications](#certifications)
 - [Contact & Collaboration](#contact--collaboration)
 
 ---
@@ -314,28 +313,6 @@ Meta Spark Studio · VisionOS SDK · Reality Composer
 
 AWS (Certified) · GCP · Docker · Kubernetes  
 GitHub Actions · GitLab CI · Terraform
----
-
-## Certifications
-
-**AI/ML & Imaging**
-- SPIE Society for Optics and Photonics — Photon Counting for 
-  Low-Light Imaging
-- AWS Certified Machine Learning – Specialty
-- AWS Solutions Architect – Associate
-- AWS Developer – Professional
-- AWS Advanced Networking – Specialty
-- AWS SysOps Administrator – Associate
-
-**XR & Development**
-- Unity Certified 3D Developer (University of Toronto)
-- C# Scripting Fundamentals in Unity
-
-**Research Ethics**
-- Tri-Council Policy Statement (TCPS2 – Canada)
-- Human Research Ethics · Observational & Clinical Neuroscience · 
-  Genetic Research Modules
-- Blue Morpho Workshop (SPIE) — Neuroethics
 
 ---
 
