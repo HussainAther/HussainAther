@@ -23,7 +23,7 @@ software for next-generation computational science.
 [Contra](https://contra.com/hussain_ather_gstpudb0) · 
 [Notion (private)](https://app.notion.com/p/Syed-Hussain-Ather-Portfolio-2d93b1d7fd05420fa4589562b8fbd758) · 
 [Kaggle](https://www.kaggle.com/hussainather) ·  
-[Devpost](https://devpost.com/HussainAther/) · 
+[Devpost](https://devpost.com/HussainAther/) 
 
 [![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
