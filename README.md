@@ -24,7 +24,8 @@ software for next-generation computational science.
 [Notion (private)](https://app.notion.com/p/Syed-Hussain-Ather-Portfolio-2d93b1d7fd05420fa4589562b8fbd758) · 
 [Kaggle](https://www.kaggle.com/hussainather) · 
 [Devpost](https://devpost.com/HussainAther/) · 
-[Instagram](https://www.instagram.com/athercreates) 
+[Instagram](https://www.instagram.com/athercreates) · 
+[YouTube](https://www.youtube.com/@hussainather1540) 
 
 [![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-blue)](https://toptal.com)
 
