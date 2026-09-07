@@ -219,6 +219,16 @@ Pressure-Chaos-Control / Entropy-Based Instability Dynamics).
 - Quantum imaging modeling
 - Exoplanet transit simulation and archaea morphology modeling
 
+### Gravitational Astronomy & Computational Lensing
+
+Developing simulation, inverse-reconstruction, and open-source tools for gravitational lensing and Solar Gravitational Lens imaging.
+
+* Solar Gravitational Lens exoplanet imaging and wave-optical modeling
+* Gravitational-lens tomography, multi-plane lensing, and inverse methods
+* Reproducible benchmarks, visualization, and scientific software
+* Multiple papers and open-source packages in development
+
+
 ---
 
 ## Open Source Contributions
