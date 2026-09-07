@@ -228,6 +228,14 @@ Developing simulation, inverse-reconstruction, and open-source tools for gravita
 * Reproducible benchmarks, visualization, and scientific software
 * Multiple papers and open-source packages in development
 
+### Bubble Farming & Computational Algal Systems
+
+Developing data, analytics, and scientific-software tools for Bubble Farming experiments in microalgae cultivation and environmental biotechnology.
+
+* Standardized multi-species experimental data collection and quality-control workflows
+* Analytics for growth, biomass, metabolites, and environmental response
+* Controlled-vs-field comparison across algal cultivation conditions
+* Foundations for predictive modeling, AI-assisted analysis, and digital-twin development
 
 ---
 
